@@ -12,3 +12,7 @@ venv.bak/
 
 # Ignore large files in data folder
 /data
+
+# Pipenv stuff
+Pipfile
+Pipfile.lock
